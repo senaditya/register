@@ -1,0 +1,11 @@
+{
+  "record": {
+    "MX": [
+      "mx.bump.email",
+      "mx2.bump.email"
+    ],
+    "TXT":[
+      "v=spf1 include:_spf.bump.email ~all"
+    ]
+  }
+}
